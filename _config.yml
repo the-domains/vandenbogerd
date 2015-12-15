@@ -1,0 +1,28 @@
+name: vandenbogerd
+favicon: null
+layout_spectrum: 0.8269734585192055
+typography_spectrum: 0.3588260046672076
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.05229488108307123
+  lightness: 0.6294095027260482
+  saturation: 0.9408418154343963
+  rhythmicContrast: 0.17540391837246716
+purpose: []
