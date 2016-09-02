@@ -1,19 +1,4 @@
-name: vandenbogerd
-favicon: null
-layout_spectrum: 0.8269734585192055
 typography_spectrum: 0.3588260046672076
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#B8B42D'
@@ -25,4 +10,20 @@ color:
   lightness: 0.6294095027260482
   saturation: 0.9408418154343963
   rhythmicContrast: 0.17540391837246716
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8269734585192055
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: vandenbogerd
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Frank Van den Bogerd
 purpose: []
