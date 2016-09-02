@@ -19,11 +19,15 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: vandenbogerd
+name: Hello!
 cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: My Twitter
+    url: 'https://twitter.com/vandenbogerd'
+    type: external
 favicon: null
 title: Frank Van den Bogerd
 description: Zaakvoerder @multimedium
